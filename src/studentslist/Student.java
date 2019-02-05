@@ -14,7 +14,10 @@ public class Student {
    
     private String name;
     private int id;
- 
+    private int maxhrs;
+    
+    
+    
     public Student()
     {
         name = "Not Set";
